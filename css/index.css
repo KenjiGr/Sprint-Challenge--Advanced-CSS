@@ -211,6 +211,13 @@ footer {
 .home .intro p {
   padding: 0 15px;
 }
+.home .intro .header-img {
+  margin-top: 8vh;
+}
+.home .intro .header-img img {
+  border-radius: 0.5rem;
+  width: 100%;
+}
 .home .space-images {
   display: flex;
   flex-wrap: wrap;
