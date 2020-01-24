@@ -178,6 +178,7 @@ p {
   display: flex;
   flex-direction: column-reverse;
   height: 7vh;
+  justify-content: space-around;
 }
 .nav .navbg .navbar {
   display: flex;
@@ -186,6 +187,8 @@ p {
 .nav .navbg .navbar nav a {
   font-size: 1.2rem;
   text-decoration: none;
+  margin: 1rem;
+  color: black;
 }
 .nav .navbg .title {
   display: flex;
